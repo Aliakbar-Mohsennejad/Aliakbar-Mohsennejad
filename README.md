@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aliakbar Mohsennejad</h1>
+<h1 align="center">Hi 👋, I'm Aliakbar Mohsennezhad</h1>
 <h3 align="center">A final-year Electrical Engineering student with a passion for embedded systems, digital design, and real-world hardware projects.</h3>
 
 <p align="center">
