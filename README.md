@@ -22,7 +22,7 @@
 
 ### 📬 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/aliakbar-mohsennejad" target="blank">
+  <a href="https://www.linkedin.com/in/aliakbar-mohsennejad-9aa191105/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://youtu.be/rKCyiMRLrpU" target="blank">
